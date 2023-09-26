@@ -20,6 +20,8 @@ Install these dependencies using npm:
 ```bash
 npm install cluster os mongodb fs path JSONStream
 
+```
+
 ## Configuration
 
 - `TOTAL_RECORDS`: The total number of records to be fetched from the MongoDB database.
@@ -49,6 +51,7 @@ Run the script using the following command:
 
 ```bash
 node multithread.js
+```
 
 ## Output
 
