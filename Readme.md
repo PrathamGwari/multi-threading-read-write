@@ -48,7 +48,7 @@ npm install cluster os mongodb fs path JSONStream
 Run the script using the following command:
 
 ```bash
-node <script-file-name.js>
+node multithread.js
 
 ## Output
 
